@@ -24,7 +24,7 @@
 
 ## About The Project
 
-In this repository the Code is provided, that I used to create a dataset incorpocrating historic forest fire events and environmental data in Galicia between the years 2020 and 2022. A Random Forest Classifier, an XGB Classifier and an Easy Ensemble Classifier were used to predict forest fire susceptibility in Galicia and evaluated throughout different validation steps. The results and validation methods are provided as well. Used features for the prediction were: NDVI, altitude, slope, aspect, curvature, temperature, relative humidity, precipitation and wind parameters.
+In this repository the code is provided, that I used to create a dataset incorpocrating historic forest fire events and environmental data in Galicia between the years 2020 and 2022. A Random Forest Classifier, an XGB Classifier and an Easy Ensemble Classifier were used to predict forest fire susceptibility in Galicia and evaluated throughout different validation steps. The results and validation methods are provided as well. Used features for the prediction were: NDVI, altitude, slope, aspect, curvature, temperature, relative humidity, precipitation and wind parameters.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
