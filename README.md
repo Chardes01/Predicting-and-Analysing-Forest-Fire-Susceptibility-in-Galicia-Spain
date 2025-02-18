@@ -39,7 +39,7 @@ In this repository the code is provided, that I used to create a dataset incorpo
   - `utils.py`: collection of different functions, for instance, random sampling of negative datapoints and grouping of datapoints to process them more efficiently
 - 'results/': Here the models are applied on the dataset and evaluated, as well as the feature importance visualised.
   - `results_utils.py`: Here all the methods for evaluation and visualisation can be found.
-  - `results_main.py`: An exemplary run of the different validation steps.
+  - `results_main.py`: An exemplary run of the different validation steps. [Results](https://nbviewer.jupyter.org/github/Chardes01/Predicting-and-Analysing-Forest-Fire-Susceptibility-in-Galicia-Spain/blob/main/results/results_main.ipynb)
 
 
 
