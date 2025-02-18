@@ -11,7 +11,7 @@
   <br />
 
   <p align="center">
-    <img src="img/landcover.png" alt="Logo" width="80%">
+    <img src="img/landcover.png" alt="Logo" width="40%">
     <br />
     <h3 align="center"><strong>Coding Foundation</strong></h3>
 
