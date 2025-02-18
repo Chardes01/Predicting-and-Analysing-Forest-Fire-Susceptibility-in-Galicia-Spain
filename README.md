@@ -70,7 +70,7 @@ In this repository the Code is provided, that I used to create a dataset incorpo
 - NDVI data can be recieved from Terrascope <a href="https://terrascope.be/en"><u>here</u></a> 
 - a digital terrain model for Galicia can be downloaded at the <a href="https://www.ign.es/web/inicio?locale=es"><u>Instituto Geográfico Nacional</u></a>
 - weather data can be downloaded at <a href="https://www.aemet.es/en/datos_abiertos/AEMET_OpenData"><u>@AEMET</u></a> 
-- landcover data, that was used for creating a vegetation map, can be found at <a href=" https://land.copernicus.eu/en/products/corine-land-cover/clc2018"><u>Copernicus Land Monitoring Service</u></a>
+- landcover data, that was used for creating a vegetation map, can be found at <a href="https://land.copernicus.eu/en/products/corine-land-cover/clc2018"><u>Copernicus Land Monitoring Service</u></a>
 
 
 ## License
